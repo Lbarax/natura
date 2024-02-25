@@ -1,4 +1,4 @@
-# natura
+# natural
 fck
 # https://tea.xyz/what-is-this-file
 ---
